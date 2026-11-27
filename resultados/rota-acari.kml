@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<name>Atividade 03 — Rota de Acari</name>
+<Style id="rota"><LineStyle><color>ffbd6321</color><width>4</width></LineStyle></Style>
+<Placemark><name>1. Acari</name><Point><coordinates>-36.639350,-6.423950,0</coordinates></Point></Placemark>
+<Placemark><name>2. Almino Afonso</name><Point><coordinates>-37.748900,-6.156850,0</coordinates></Point></Placemark>
+<Placemark><name>3. Antônio Martins</name><Point><coordinates>-37.920050,-6.213250,0</coordinates></Point></Placemark>
+<Placemark><name>4. Alexandria</name><Point><coordinates>-37.984400,-6.365650,0</coordinates></Point></Placemark>
+<Placemark><name>5. Água Nova</name><Point><coordinates>-38.314950,-6.208850,0</coordinates></Point></Placemark>
+<Placemark><name>6. Apodi</name><Point><coordinates>-37.865950,-5.628800,0</coordinates></Point></Placemark>
+<Placemark><name>7. Baraúna</name><Point><coordinates>-37.627650,-5.081900,0</coordinates></Point></Placemark>
+<Placemark><name>8. Areia Branca</name><Point><coordinates>-37.004300,-5.021650,0</coordinates></Point></Placemark>
+<Placemark><name>9. Assú</name><Point><coordinates>-37.005600,-5.592250,0</coordinates></Point></Placemark>
+<Placemark><name>10. Alto do Rodrigues</name><Point><coordinates>-36.687700,-5.342750,0</coordinates></Point></Placemark>
+<Placemark><name>11. Afonso Bezerra</name><Point><coordinates>-36.650150,-5.484150,0</coordinates></Point></Placemark>
+<Placemark><name>12. Angicos</name><Point><coordinates>-36.516700,-5.642400,0</coordinates></Point></Placemark>
+<Placemark><name>13. Bento Fernandes</name><Point><coordinates>-35.786900,-5.670900,0</coordinates></Point></Placemark>
+<Placemark><name>14. Bom Jesus</name><Point><coordinates>-35.593800,-6.005900,0</coordinates></Point></Placemark>
+<Placemark><name>15. Arez</name><Point><coordinates>-35.204450,-6.195250,0</coordinates></Point></Placemark>
+<Placemark><name>16. Baía Formosa</name><Point><coordinates>-35.047900,-6.419300,0</coordinates></Point></Placemark>
+<Placemark><name>17. Brejinho</name><Point><coordinates>-35.387900,-6.215850,0</coordinates></Point></Placemark>
+<Placemark><name>18. Barcelona</name><Point><coordinates>-35.933300,-5.985350,0</coordinates></Point></Placemark>
+<Placemark><name>19. Bodó</name><Point><coordinates>-36.440700,-5.954100,0</coordinates></Point></Placemark>
+<Placemark><name>Percurso geográfico</name><styleUrl>#rota</styleUrl><LineString><tessellate>1</tessellate><coordinates>
+-36.639350,-6.423950,0
+-37.748900,-6.156850,0
+-37.920050,-6.213250,0
+-37.984400,-6.365650,0
+-38.314950,-6.208850,0
+-37.865950,-5.628800,0
+-37.627650,-5.081900,0
+-37.004300,-5.021650,0
+-37.005600,-5.592250,0
+-36.687700,-5.342750,0
+-36.650150,-5.484150,0
+-36.516700,-5.642400,0
+-35.786900,-5.670900,0
+-35.593800,-6.005900,0
+-35.204450,-6.195250,0
+-35.047900,-6.419300,0
+-35.387900,-6.215850,0
+-35.933300,-5.985350,0
+-36.440700,-5.954100,0
+-36.639350,-6.423950,0
+</coordinates></LineString></Placemark></Document></kml>

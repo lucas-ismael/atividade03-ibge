@@ -1,0 +1,381 @@
+UF;Município;Código IBGE;Vizinhos;De outra UF
+RO;Alta Floresta D'Oeste;1100015;0;0
+RO;Ariquemes;1100023;0;0
+RO;Cabixi;1100031;0;0
+RO;Cacoal;1100049;0;0
+RO;Cerejeiras;1100056;0;0
+RO;Colorado do Oeste;1100064;0;0
+RO;Corumbiara;1100072;0;0
+RO;Costa Marques;1100080;0;0
+RO;Espigão D'Oeste;1100098;0;0
+RO;Guajará-Mirim;1100106;0;0
+RO;Jaru;1100114;0;0
+RO;Ji-Paraná;1100122;0;0
+RO;Machadinho D'Oeste;1100130;0;0
+RO;Nova Brasilândia D'Oeste;1100148;0;0
+RO;Ouro Preto do Oeste;1100155;0;0
+RO;Pimenta Bueno;1100189;0;0
+RO;Porto Velho;1100205;0;0
+RO;Presidente Médici;1100254;0;0
+RO;Rio Crespo;1100262;0;0
+RO;Rolim de Moura;1100288;0;0
+RO;Santa Luzia D'Oeste;1100296;0;0
+RO;Vilhena;1100304;0;0
+RO;São Miguel do Guaporé;1100320;0;0
+RO;Nova Mamoré;1100338;0;0
+RO;Alvorada D'Oeste;1100346;0;0
+RO;Alto Alegre dos Parecis;1100379;0;0
+RO;Alto Paraíso;1100403;0;0
+RO;Buritis;1100452;0;0
+RO;Novo Horizonte do Oeste;1100502;0;0
+RO;Cacaulândia;1100601;0;0
+RO;Campo Novo de Rondônia;1100700;0;0
+RO;Candeias do Jamari;1100809;0;0
+RO;Castanheiras;1100908;0;0
+RO;Chupinguaia;1100924;0;0
+RO;Cujubim;1100940;0;0
+RO;Governador Jorge Teixeira;1101005;0;0
+RO;Itapuã do Oeste;1101104;0;0
+RO;Ministro Andreazza;1101203;0;0
+RO;Mirante da Serra;1101302;0;0
+RO;Monte Negro;1101401;0;0
+RO;Nova União;1101435;0;0
+RO;Parecis;1101450;0;0
+RO;Pimenteiras do Oeste;1101468;0;0
+RO;Primavera de Rondônia;1101476;0;0
+RO;São Felipe D'Oeste;1101484;0;0
+RO;São Francisco do Guaporé;1101492;0;0
+RO;Seringueiras;1101500;0;0
+RO;Teixeirópolis;1101559;0;0
+RO;Theobroma;1101609;0;0
+RO;Urupá;1101708;0;0
+RO;Vale do Anari;1101757;0;0
+RO;Vale do Paraíso;1101807;0;0
+AC;Acrelândia;1200013;0;0
+AC;Assis Brasil;1200054;0;0
+AC;Brasiléia;1200104;0;0
+AC;Bujari;1200138;0;0
+AC;Capixaba;1200179;0;0
+AC;Cruzeiro do Sul;1200203;0;0
+AC;Epitaciolândia;1200252;0;0
+AC;Feijó;1200302;0;0
+AC;Jordão;1200328;0;0
+AC;Mâncio Lima;1200336;0;0
+AC;Manoel Urbano;1200344;0;0
+AC;Marechal Thaumaturgo;1200351;0;0
+AC;Plácido de Castro;1200385;0;0
+AC;Porto Walter;1200393;0;0
+AC;Rio Branco;1200401;0;0
+AC;Rodrigues Alves;1200427;0;0
+AC;Santa Rosa do Purus;1200435;0;0
+AC;Senador Guiomard;1200450;0;0
+AC;Sena Madureira;1200500;0;0
+AC;Tarauacá;1200609;0;0
+AC;Xapuri;1200708;0;0
+AC;Porto Acre;1200807;0;0
+AM;Nhamundá;1303007;1;1
+RR;Amajari;1400027;0;0
+RR;Alto Alegre;1400050;0;0
+RR;Boa Vista;1400100;0;0
+RR;Bonfim;1400159;0;0
+RR;Cantá;1400175;0;0
+RR;Caracaraí;1400209;0;0
+RR;Caroebe;1400233;0;0
+RR;Iracema;1400282;0;0
+RR;Mucajaí;1400308;0;0
+RR;Normandia;1400407;0;0
+RR;Pacaraima;1400456;0;0
+RR;Rorainópolis;1400472;0;0
+RR;São João da Baliza;1400506;0;0
+RR;São Luiz do Anauá;1400605;0;0
+RR;Uiramutã;1400704;0;0
+PA;Ananindeua;1500800;3;0
+AP;Itaubal;1600253;1;0
+AP;Macapá;1600303;1;0
+TO;Combinado;1705557;2;1
+TO;Novo Alegre;1715150;2;1
+MA;Bernardo do Mearim;2101939;2;0
+MA;Esperantinópolis;2104008;2;0
+MA;Igarapé Grande;2105203;2;0
+MA;Lago do Junco;2105807;2;0
+MA;Lago dos Rodrigues;2105948;2;0
+MA;Luís Domingues;2106201;2;0
+MA;Matinha;2106508;2;0
+MA;Olinda Nova do Maranhão;2107456;2;0
+MA;Paço do Lumiar;2107506;2;0
+MA;Pedreiras;2108207;2;0
+MA;São Bento;2110500;2;0
+MA;São Vicente Ferrer;2111706;2;0
+MA;Trizidela do Vale;2112233;2;0
+PI;Lagoinha do Piauí;2205540;5;0
+CE;Acarape;2300150;3;0
+CE;Itaitinga;2306256;3;0
+CE;Maracanaú;2307650;3;0
+CE;Uruburetama;2313807;3;0
+RN;Luís Gomes;2407005;8;3
+PB;Lagoa de Dentro;2508208;8;0
+PB;Lagoa Seca;2508307;8;0
+PB;Pirpirituba;2511806;8;0
+PE;Igarassu;2606804;6;0
+AL;Belém;2700805;4;0
+AL;Campestre;2701357;4;1
+AL;Colônia Leopoldina;2702108;4;2
+AL;Jacaré dos Homens;2703403;4;0
+AL;Jundiá;2703908;4;0
+AL;Mar Vermelho;2704906;4;0
+AL;Monteirópolis;2705408;4;0
+AL;Novo Lino;2705606;4;1
+AL;Olho d'Água das Flores;2705705;4;0
+AL;Porto de Pedras;2707404;4;0
+AL;São Brás;2708204;4;2
+AL;Tanque d'Arca;2709004;4;0
+AL;Taquarana;2709103;4;0
+SE;Divina Pastora;2802007;7;0
+BA;Cruz das Almas;2909802;5;0
+BA;Governador Mangabeira;2911600;5;0
+BA;Muniz Ferreira;2922201;5;0
+MG;Guarará;3128501;6;0
+MG;São José da Lapa;3162955;6;0
+ES;Apiacá;3200508;3;1
+ES;Bom Jesus do Norte;3201100;3;1
+ES;São José do Calçado;3204807;3;1
+RJ;Mesquita;3302858;5;0
+SP;Carapicuíba;3510609;7;0
+SP;Itapevi;3522505;7;0
+SP;Jandira;3525003;7;0
+SP;Suzano;3552502;7;0
+PR;Doutor Camargo;4107306;4;0
+PR;Flórida;4108106;4;0
+PR;Indianópolis;4110409;4;0
+PR;Japurá;4112405;4;0
+PR;Ourizona;4117404;4;0
+PR;São Manoel do Paraná;4125555;4;0
+SC;Bom Jesus do Oeste;4202578;8;0
+SC;Sul Brasil;4217758;8;0
+RS;Bom Princípio;4302352;9;0
+RS;Lindolfo Collor;4311627;9;0
+RS;Presidente Lucena;4315149;9;0
+RS;Tupandi;4322251;9;0
+MS;Água Clara;5000203;0;0
+MS;Alcinópolis;5000252;0;0
+MS;Amambai;5000609;0;0
+MS;Anastácio;5000708;0;0
+MS;Anaurilândia;5000807;0;0
+MS;Angélica;5000856;0;0
+MS;Antônio João;5000906;0;0
+MS;Aparecida do Taboado;5001003;0;0
+MS;Aquidauana;5001102;0;0
+MS;Aral Moreira;5001243;0;0
+MS;Bandeirantes;5001508;0;0
+MS;Bataguassu;5001904;0;0
+MS;Batayporã;5002001;0;0
+MS;Bela Vista;5002100;0;0
+MS;Bodoquena;5002159;0;0
+MS;Bonito;5002209;0;0
+MS;Brasilândia;5002308;0;0
+MS;Caarapó;5002407;0;0
+MS;Camapuã;5002605;0;0
+MS;Campo Grande;5002704;0;0
+MS;Caracol;5002803;0;0
+MS;Cassilândia;5002902;0;0
+MS;Chapadão do Sul;5002951;0;0
+MS;Corguinho;5003108;0;0
+MS;Coronel Sapucaia;5003157;0;0
+MS;Corumbá;5003207;0;0
+MS;Costa Rica;5003256;0;0
+MS;Coxim;5003306;0;0
+MS;Deodápolis;5003454;0;0
+MS;Dois Irmãos do Buriti;5003488;0;0
+MS;Douradina;5003504;0;0
+MS;Dourados;5003702;0;0
+MS;Eldorado;5003751;0;0
+MS;Fátima do Sul;5003801;0;0
+MS;Figueirão;5003900;0;0
+MS;Glória de Dourados;5004007;0;0
+MS;Guia Lopes da Laguna;5004106;0;0
+MS;Iguatemi;5004304;0;0
+MS;Inocência;5004403;0;0
+MS;Itaporã;5004502;0;0
+MS;Itaquiraí;5004601;0;0
+MS;Ivinhema;5004700;0;0
+MS;Japorã;5004809;0;0
+MS;Jaraguari;5004908;0;0
+MS;Jardim;5005004;0;0
+MS;Jateí;5005103;0;0
+MS;Juti;5005152;0;0
+MS;Ladário;5005202;0;0
+MS;Laguna Carapã;5005251;0;0
+MS;Maracaju;5005400;0;0
+MS;Miranda;5005608;0;0
+MS;Mundo Novo;5005681;0;0
+MS;Naviraí;5005707;0;0
+MS;Nioaque;5005806;0;0
+MS;Nova Alvorada do Sul;5006002;0;0
+MS;Nova Andradina;5006200;0;0
+MS;Novo Horizonte do Sul;5006259;0;0
+MS;Paraíso das Águas;5006275;0;0
+MS;Paranaíba;5006309;0;0
+MS;Paranhos;5006358;0;0
+MS;Pedro Gomes;5006408;0;0
+MS;Ponta Porã;5006606;0;0
+MS;Porto Murtinho;5006903;0;0
+MS;Ribas do Rio Pardo;5007109;0;0
+MS;Rio Brilhante;5007208;0;0
+MS;Rio Negro;5007307;0;0
+MS;Rio Verde de Mato Grosso;5007406;0;0
+MS;Rochedo;5007505;0;0
+MS;Santa Rita do Pardo;5007554;0;0
+MS;São Gabriel do Oeste;5007695;0;0
+MS;Sete Quedas;5007703;0;0
+MS;Selvíria;5007802;0;0
+MS;Sidrolândia;5007901;0;0
+MS;Sonora;5007935;0;0
+MS;Tacuru;5007950;0;0
+MS;Taquarussu;5007976;0;0
+MS;Terenos;5008008;0;0
+MS;Três Lagoas;5008305;0;0
+MS;Vicentina;5008404;0;0
+MT;Acorizal;5100102;0;0
+MT;Água Boa;5100201;0;0
+MT;Alta Floresta;5100250;0;0
+MT;Alto Araguaia;5100300;0;0
+MT;Alto Boa Vista;5100359;0;0
+MT;Alto Garças;5100409;0;0
+MT;Alto Paraguai;5100508;0;0
+MT;Alto Taquari;5100607;0;0
+MT;Apiacás;5100805;0;0
+MT;Araguaiana;5101001;0;0
+MT;Araguainha;5101209;0;0
+MT;Araputanga;5101258;0;0
+MT;Arenápolis;5101308;0;0
+MT;Aripuanã;5101407;0;0
+MT;Barão de Melgaço;5101605;0;0
+MT;Barra do Bugres;5101704;0;0
+MT;Barra do Garças;5101803;0;0
+MT;Boa Esperança do Norte;5101837;0;0
+MT;Bom Jesus do Araguaia;5101852;0;0
+MT;Brasnorte;5101902;0;0
+MT;Cáceres;5102504;0;0
+MT;Campinápolis;5102603;0;0
+MT;Campo Novo do Parecis;5102637;0;0
+MT;Campo Verde;5102678;0;0
+MT;Campos de Júlio;5102686;0;0
+MT;Canabrava do Norte;5102694;0;0
+MT;Canarana;5102702;0;0
+MT;Carlinda;5102793;0;0
+MT;Castanheira;5102850;0;0
+MT;Chapada dos Guimarães;5103007;0;0
+MT;Cláudia;5103056;0;0
+MT;Cocalinho;5103106;0;0
+MT;Colíder;5103205;0;0
+MT;Colniza;5103254;0;0
+MT;Comodoro;5103304;0;0
+MT;Confresa;5103353;0;0
+MT;Conquista D'Oeste;5103361;0;0
+MT;Cotriguaçu;5103379;0;0
+MT;Cuiabá;5103403;0;0
+MT;Curvelândia;5103437;0;0
+MT;Denise;5103452;0;0
+MT;Diamantino;5103502;0;0
+MT;Dom Aquino;5103601;0;0
+MT;Feliz Natal;5103700;0;0
+MT;Figueirópolis D'Oeste;5103809;0;0
+MT;Gaúcha do Norte;5103858;0;0
+MT;General Carneiro;5103908;0;0
+MT;Glória D'Oeste;5103957;0;0
+MT;Guarantã do Norte;5104104;0;0
+MT;Guiratinga;5104203;0;0
+MT;Indiavaí;5104500;0;0
+MT;Ipiranga do Norte;5104526;0;0
+MT;Itanhangá;5104542;0;0
+MT;Itaúba;5104559;0;0
+MT;Itiquira;5104609;0;0
+MT;Jaciara;5104807;0;0
+MT;Jangada;5104906;0;0
+MT;Jauru;5105002;0;0
+MT;Juara;5105101;0;0
+MT;Juína;5105150;0;0
+MT;Juruena;5105176;0;0
+MT;Juscimeira;5105200;0;0
+MT;Lambari D'Oeste;5105234;0;0
+MT;Lucas do Rio Verde;5105259;0;0
+MT;Luciara;5105309;0;0
+MT;Vila Bela da Santíssima Trindade;5105507;0;0
+MT;Marcelândia;5105580;0;0
+MT;Matupá;5105606;0;0
+MT;Mirassol d'Oeste;5105622;0;0
+MT;Nobres;5105903;0;0
+MT;Nortelândia;5106000;0;0
+MT;Nossa Senhora do Livramento;5106109;0;0
+MT;Nova Bandeirantes;5106158;0;0
+MT;Nova Nazaré;5106174;0;0
+MT;Nova Lacerda;5106182;0;0
+MT;Nova Santa Helena;5106190;0;0
+MT;Nova Brasilândia;5106208;0;0
+MT;Nova Canaã do Norte;5106216;0;0
+MT;Nova Mutum;5106224;0;0
+MT;Nova Olímpia;5106232;0;0
+MT;Nova Ubiratã;5106240;0;0
+MT;Nova Xavantina;5106257;0;0
+MT;Novo Mundo;5106265;0;0
+MT;Novo Horizonte do Norte;5106273;0;0
+MT;Novo São Joaquim;5106281;0;0
+MT;Paranaíta;5106299;0;0
+MT;Paranatinga;5106307;0;0
+MT;Novo Santo Antônio;5106315;0;0
+MT;Pedra Preta;5106372;0;0
+MT;Peixoto de Azevedo;5106422;0;0
+MT;Planalto da Serra;5106455;0;0
+MT;Poconé;5106505;0;0
+MT;Pontal do Araguaia;5106653;0;0
+MT;Ponte Branca;5106703;0;0
+MT;Pontes e Lacerda;5106752;0;0
+MT;Porto Alegre do Norte;5106778;0;0
+MT;Porto dos Gaúchos;5106802;0;0
+MT;Porto Esperidião;5106828;0;0
+MT;Porto Estrela;5106851;0;0
+MT;Poxoréu;5107008;0;0
+MT;Primavera do Leste;5107040;0;0
+MT;Querência;5107065;0;0
+MT;São José dos Quatro Marcos;5107107;0;0
+MT;Reserva do Cabaçal;5107156;0;0
+MT;Ribeirão Cascalheira;5107180;0;0
+MT;Ribeirãozinho;5107198;0;0
+MT;Rio Branco;5107206;0;0
+MT;Santa Carmem;5107248;0;0
+MT;Santo Afonso;5107263;0;0
+MT;São José do Povo;5107297;0;0
+MT;São José do Rio Claro;5107305;0;0
+MT;São José do Xingu;5107354;0;0
+MT;São Pedro da Cipa;5107404;0;0
+MT;Rondolândia;5107578;0;0
+MT;Rondonópolis;5107602;0;0
+MT;Rosário Oeste;5107701;0;0
+MT;Santa Cruz do Xingu;5107743;0;0
+MT;Salto do Céu;5107750;0;0
+MT;Santa Rita do Trivelato;5107768;0;0
+MT;Santa Terezinha;5107776;0;0
+MT;Santo Antônio do Leste;5107792;0;0
+MT;Santo Antônio de Leverger;5107800;0;0
+MT;São Félix do Araguaia;5107859;0;0
+MT;Sapezal;5107875;0;0
+MT;Serra Nova Dourada;5107883;0;0
+MT;Sinop;5107909;0;0
+MT;Sorriso;5107925;0;0
+MT;Tabaporã;5107941;0;0
+MT;Tangará da Serra;5107958;0;0
+MT;Tapurah;5108006;0;0
+MT;Terra Nova do Norte;5108055;0;0
+MT;Tesouro;5108105;0;0
+MT;Torixoréu;5108204;0;0
+MT;União do Sul;5108303;0;0
+MT;Vale de São Domingos;5108352;0;0
+MT;Várzea Grande;5108402;0;0
+MT;Vera;5108501;0;0
+MT;Vila Rica;5108600;0;0
+MT;Nova Guarita;5108808;0;0
+MT;Nova Marilândia;5108857;0;0
+MT;Nova Maringá;5108907;0;0
+MT;Nova Monte Verde;5108956;0;0
+GO;Nova Veneza;5215009;4;0
+DF;Brasília;5300108;0;0
