@@ -40,4 +40,5 @@ Em `include/` ficam os cabeçalhos. A pasta `exemplos/` tem dois programas curto
 - [Guia da biblioteca IBGE](docs/biblioteca-ibge.md)
 - [Fluxogramas](docs/fluxogramas.md)
 - [Roteiro de estudo](docs/estudo.md)
+- [Validação dos resultados offline](docs/validacao.md)
 - [Repositório da biblioteca do professor](https://github.com/kennedyufersa/biblioteca_ibge)
